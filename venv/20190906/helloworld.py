@@ -55,4 +55,5 @@ print(""" Characters of name?
 print(' 이렇게 "별개"로 됨')
 print(" 이렇게도 '별개'로 ")
 
+# r 을 치면 뒤에게 그대로 나옴.
 print(r"\n \t \" \\ 을 그대로 출력")
